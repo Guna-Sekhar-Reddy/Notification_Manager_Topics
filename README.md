@@ -170,5 +170,5 @@ If you have a existing project directly start from step 4:
 
 - Open Terminal in Vs code and type and change to the root directory where run file is present.
   ```
-     python run.py
+     python app.py
   ```
